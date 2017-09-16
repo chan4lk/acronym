@@ -1,4 +1,5 @@
-# chan4lk-acronym [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# chan4lk-acronym
+### Generate acronym from sentences.
 
 ## Installation
 
