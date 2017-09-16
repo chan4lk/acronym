@@ -1,14 +1,14 @@
 # chan4lk-acronym
-### Generate acronym from sentences.
+### Transform sentences to acronyms.
 
 ## Installation
 
 ```bash
-npm install chan4lk-acronym
+npm install @chan4lk/acronym
 ```
 ## Usage
 ```js
-const acronym = require('chan4lk-acronym');
+const acronym = require('@chan4lk/acronym');
 
 acronym('for your information', (err, resp)=> {
     if(err){
@@ -21,7 +21,7 @@ acronym('for your information', (err, resp)=> {
 ## Tests
 
   `npm test`
-  
+
 ## License
 
 MIT © [Chandima Ranaaweera]( https://chan4lk.github.io)
