@@ -1,0 +1,12 @@
+{
+  "name": "chan4lk-acronym",
+  "version": "1.0.0",
+  "description": "Transform sentences to acronyms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chandima Ranaweera",
+  "license": "ISC"
+}
