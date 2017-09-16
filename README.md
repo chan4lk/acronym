@@ -18,7 +18,10 @@ acronym('for your information', (err, resp)=> {
     console.log(resp); // fyi
 });
 ```
+## Tests
 
+  `npm test`
+  
 ## License
 
 MIT © [Chandima Ranaaweera]( https://chan4lk.github.io)
