@@ -1,6 +1,6 @@
 {
   "name": "chan4lk-acronym",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Transform sentences to acronyms.",
   "main": "index.js",
   "scripts": {
